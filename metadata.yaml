@@ -1,5 +1,8 @@
 _repo: Zuni-Folk-Tales_54682
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54682-h/images/cover.jpg
 creator:
   author:
     agent_name: Cushing, Frank Hamilton
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7190
     wikipedia: http://en.wikipedia.org/wiki/Frank_Hamilton_Cushing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54682#Zuni-Folk-Tales
 gutenberg_issued: '2017-05-08'
 gutenberg_type: Text
 identifiers:
